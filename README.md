@@ -16,28 +16,28 @@ Este pacote foi criado pelo PET Estatística da UFPR com o objetivo de reunir co
 O relatório foi estruturado da seguinte forma: 
 
 Exercício 5.8.5
-+ Preparação dos dados
->  Pacotes utilizados
->  Dados
+1 Preparação dos dados
+1.1  Pacotes utilizados
+1.2  Dados
   
-+ Análise exploratória
->  Resumo dos dados
->  Diagrama de dispersão
->  Gráficos de barras
->  Gráfico boxplot
+2 Análise exploratória
+2.1  Resumo dos dados
+2.2  Diagrama de dispersão
+2.3  Gráficos de barras
+2.4  Gráfico boxplot
   
-+ Análise de variância
+3 Análise de variância
 
-+ Análise de variância de forma matricial
+4 Análise de variância de forma matricial
 
-+ Pressuposições
->  Normalidade dos resíduos
->  Homogeneidade das variância
+5 Pressuposições
+5.1  Normalidade dos resíduos
+5.2  Homogeneidade das variância
   
-+ Teste de Tukey
+6 Teste de Tukey
 
-+ Utilização do pacote expDes.pt
+7 Utilização do pacote expDes.pt
 
-+ Conclusões
+8 Conclusões
 
-+ Referências
+9 Referências
