@@ -21,7 +21,7 @@ Exercício 5.8.5
   Preparação dos dados
 <ol>
   <li> Pacotes utilizados </li>
-  <li> Dados </li>
+  <li> Informações sobre os dados </li>
 </ol>  
 <li> Análise exploratória </li>
 <ol>
