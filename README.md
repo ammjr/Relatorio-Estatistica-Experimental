@@ -23,8 +23,6 @@ Exercício 5.8.5
   <li> Pacotes utilizados </li>
   <li> Dados </li>
 </ol>  
-
-  
 <li> Análise exploratória </li>
 <ol>
 <li>  Resumo dos dados </li>
@@ -33,19 +31,14 @@ Exercício 5.8.5
 <li>  Gráfico boxplot </li>
 </ol>  
 <li> Análise de variância </li>
-
 <li> Análise de variância de forma matricial </li>
-
 <li> Pressuposições </li>
 <ol>
 <li> Normalidade dos resíduos </li>
 <li>  Homogeneidade das variância </li>
 </ol>  
 <li> Teste de Tukey </li>
-
 <li> Utilização do pacote expDes.pt </li>
-
 <li> Conclusões </li>
-
 <li>Referências </li>
 </ol> 
