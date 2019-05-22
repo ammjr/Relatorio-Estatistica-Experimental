@@ -18,17 +18,25 @@ Exercício 5.8.5
 + Preparação dos dados
   Pacotes utilizados
   Dados
+  
 + Análise exploratória
   Resumo dos dados
   Diagrama de dispersão
   Gráficos de barras
   Gráfico boxplot
+  
 + Análise de variância
+
 + Análise de variância de forma matricial
+
 + Pressuposições
   Normalidade dos resíduos
   Homogeneidade das variância
+  
 + Teste de Tukey
+
 + Utilização do pacote expDes.pt
+
 + Conclusões
+
 + Referências
