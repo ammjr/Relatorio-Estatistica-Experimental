@@ -1,5 +1,3 @@
-# estexp_1
-
 Relatório de análise estatística do exercício 5.8.5 do livro Curso de Estatística (Pimentel-Gomes, 2009).
 
 Trate-se de um ensaio de competição de variedades de mandioca, delineado em blocos casualizados, realizado pelo Instituto de Pesquisas Agronômicas do Leste (atual Centro Nacional de Pesquisa de Mandioca e Fruticultura, da EMBRAPA), 
